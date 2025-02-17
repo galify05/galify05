@@ -60,6 +60,15 @@
   <ul>
     <li> <img src="https://img.shields.io/badge/Resolution-5900%20x%201080%20px%20-pink" alt="" />
       <li>  <img src="https://img.shields.io/badge/OS-Windows%2011-brightblue" alt="" />
+        <li> <img src="https://img.shields.io/badge/Browser-Chrome%20-yellow" alt="" /> <img src="https://img.shields.io/badge/Edge%20-yellow" alt="" /> <img src="https://img.shields.io/badge/Cent%20-yellow" alt="" />
+          <li> <img src="" alt="" />
+            <li> <img src="" alt="" />
+              <li> <img src="" alt="" />
+                <li> <img src="" alt="" />
+                  <li> <img src="" alt="" />
+                    <li> <img src="" alt="" />
+                      <li> <img src="" alt="" />
+                        <li> <img src="" alt="" />
   </ul>
     
   
