@@ -55,8 +55,7 @@
   </a>
 </p>
     <img src="[https://download.blender.org/branding/community/blender_community_badge_white.svg](https://img.shields.io/badge/OS-Windows%2011-brightblue)" alt="" />
-  
-</p>
+
 
 
 
