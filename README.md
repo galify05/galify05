@@ -55,7 +55,7 @@
   </a>
 </p>
 
-<h2>TEST MACHINE</h2>
+<h2 align="center">TEST MACHINE</h2>
 <p>
     <img src="https://img.shields.io/badge/OS-Windows%2011-brightblue" alt="" />
    <img src="https://img.shields.io/badge/OS-Windows%2011-brightblue" alt="" />
