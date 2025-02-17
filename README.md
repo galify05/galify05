@@ -55,21 +55,3 @@
   </a>
 </p>
 
----
-
-## 📬 Связаться со мной:
-<p align="left">
-  <a href="https://instagram.com/ft_574" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Статистика:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Galify&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Galify&theme=tokyonight" alt="GitHub Streak" />
-</p>
