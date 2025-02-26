@@ -1,16 +1,6 @@
 <h1 align="center">Привет 👋, я Galify</h1>
 <h3 align="center">QA Engineer | Автоматизация тестирования | Мануальное тестирование</h3>
-
 ---
-
-## 🛠 Технологии и инструменты:
-<p align="left">
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
-  </a>
- 
-</p>
-
 <h2 align="center">TEST MACHINE</h2>
 <p>
   <ul>
@@ -20,6 +10,47 @@
           <li> <img alt="Static Badge" src="https://img.shields.io/badge/CPU-5d5d5d"> <img alt="Static Badge" src="https://img.shields.io/badge/Ryzen%202600%20-dd9218">
             <li> <img alt="Static Badge" src="https://img.shields.io/badge/GPU-5d5d5d"> <img alt="Static Badge" src="https://img.shields.io/badge/RTX%202080%20-13d62d"> <img alt="Static Badge" src="https://img.shields.io/badge/16%203200mhz%20-424242">
   </ul>
+---
+---
+
+## 🛠 Technologies and tools:
+<p align="left">
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
+  </a>
+  
+   <a href="" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/>
+  </a>
+
+  <a href="" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/>
+  </a>
+  
+   <a href="" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="css" width="40" height="40"/>
+  </a>
+  
+   <a href="" target="_blank">
+    <img src="" alt="" width="40" height="40"/>
+  </a>
+  
+   <a href="" target="_blank">
+    <img src="" alt="" width="40" height="40"/>
+  </a>
+   <a href="" target="_blank">
+    <img src="" alt="" width="40" height="40"/>
+  </a>
+   <a href="" target="_blank">
+    <img src="" alt="" width="40" height="40"/>
+  </a>
+ 
+</p>
+
+
+
+
+  
     
   
    <img src="https://img.shields.io/badge/OS-Windows%2011-brightblue" alt="" />
