@@ -31,17 +31,11 @@
 <h2 align="center">TEST MACHINE</h2>
 <p>
   <ul>
-    <li> <img src="https://img.shields.io/badge/Resolution-5900%20x%201080%20px%20-pink" alt="" />
-      <li>  <img src="https://img.shields.io/badge/OS-Windows%2011-brightblue" alt="" />
-        <li> <img src="https://img.shields.io/badge/Browser-Chrome%20-yellow" alt="" /> <img src="https://img.shields.io/badge/Edge%20-yellow" alt="" /> <img src="https://img.shields.io/badge/Cent%20-yellow" alt="" />
-          <li> <img src="" alt="" />
-            <li> <img src="" alt="" />
-              <li> <img src="" alt="" />
-                <li> <img src="" alt="" />
-                  <li> <img src="" alt="" />
-                    <li> <img src="" alt="" />
-                      <li> <img src="" alt="" />
-                        <li> <img src="" alt="" />
+    <li> <img alt="Static Badge" src="https://img.shields.io/badge/Resolution-5d5d5d"> <img alt="Static Badge" src="https://img.shields.io/badge/5900%20x%201080%20px-blue">
+      <li>  <img alt="Static Badge" src="https://img.shields.io/badge/%20%20%20%20%20%20%20%20OS%20%20%20%20-5d5d5d"> <img alt="Static Badge" src="https://img.shields.io/badge/windows%2011%20-white">
+        <li> <img alt="Static Badge" src="https://img.shields.io/badge/Browser-5d5d5d"> <img alt="Static Badge" src="https://img.shields.io/badge/Chrome%20-fcf52a"> <img alt="Static Badge" src="https://img.shields.io/badge/Cent%20-2ad2fc"> <img alt="Static Badge" src="https://img.shields.io/badge/Edge%20-1888dd"> <img alt="Static Badge" src="https://img.shields.io/badge/Other-5d5d5d">
+          <li> <img alt="Static Badge" src="https://img.shields.io/badge/CPU-5d5d5d"> <img alt="Static Badge" src="https://img.shields.io/badge/Ryzen%202600%20-dd9218">
+            <li> <img alt="Static Badge" src="https://img.shields.io/badge/GPU-5d5d5d"> <img alt="Static Badge" src="https://img.shields.io/badge/RTX%202080%20-13d62d"> <img alt="Static Badge" src="https://img.shields.io/badge/16%203200mhz%20-424242">
   </ul>
     
   
