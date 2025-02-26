@@ -72,7 +72,7 @@
 
 ---
 
-### 📫 Контакты
+### 📫 Contacts
 <p align="center">
   <a href="https://github.com/galify05">
     <img src="https://img.shields.io/badge/GitHub-galify05-blue?logo=github" alt="GitHub"/>
