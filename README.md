@@ -6,7 +6,7 @@
 ## 🛠 Технологии и инструменты:
 <p align="left">
   <a href="https://www.java.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
   </a>
  
 </p>
