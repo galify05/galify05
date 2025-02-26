@@ -1,5 +1,5 @@
-<h1 align="center">Привет 👋, я Galify</h1>
-<h3 align="center">QA Engineer | Автоматизация тестирования | Мануальное тестирование</h3>
+<h1 align="center">Hi there 👋,I`m Galify</h1>
+<h3 align="center">QA Engineer | Manual & Automation testing</h3>
 
 
 <h2 align="center">TEST MACHINE</h2>
