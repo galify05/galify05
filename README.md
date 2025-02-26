@@ -31,7 +31,7 @@
     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="css" width="40" height="40"/>
   </a>
   
-   <a href="" target="_blank">
+   <a href="https://github.com/galify05" target="_blank">
     <img src="https://cdn1.iconfinder.com/data/icons/apps-8/64/github-apps-platform-512.png" alt="github" width="40" height="40"/>
   </a>
   
