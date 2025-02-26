@@ -16,57 +16,61 @@
 
 ## 🛠 Technologies and tools:
 <p align="left">
+  
   <a href="https://www.java.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
   </a>
+  
    <a href="" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/>
   </a>
+  
   <a href="" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/>
   </a>
+  
    <a href="" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="css" width="40" height="40"/>
   </a>
+  
    <a href="https://github.com/galify05" target="_blank">
     <img src="https://cdn1.iconfinder.com/data/icons/apps-8/64/github-apps-platform-512.png" alt="github" width="40" height="40"/>
   </a>
+  
    <a href="" target="_blank">
     <img src="https://ubuntuhandbook.org/wp-content/uploads/2017/07/intellij-idea-ue-icon.png" alt="idea" width="40" height="40"/>
   </a>
+  
    <a href="" target="_blank">
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/selenium.svg" alt="selenium" width="40" height="40"/>
   </a>
+  
    <a href="" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
   </a>
- <a href="" target="_blank">
-    <img src="" alt="" width="40" height="40"/>
-  </a>
+  
   <a href="" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
+  
   <a href="https://testlink.ait-tr.de/index.php" target="_blank">
     <img src="https://www.wyversolutions.co.uk/post-images/2015/11/testlink-logo.png" alt="testlink" width="40" height="40"/>
   </a>
+  
   <a href="" target="_blank">
     <img src="https://i.pinimg.com/originals/8f/e8/ea/8fe8eab80e96a80d7a45eb4ee17c4bc4.png" alt="ms office" width="40" height="40"/>
   </a>
+  
   <a href="" target="_blank">
     <img src="https://upload.vectorlogo.zone/logos/adobe_illustrator/images/57bdc1fd-fa3d-4a30-98b9-baaac55e3e15.svg" alt="Adobe Photoshop" width="40" height="40"/>
   </a>
+  
   <a href="" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="windows 10/ 11" width="40" height="40"/>
   </a>
+  
   <a href="https://www.bandicam.com/" target="_blank">
     <img src="https://img.icons8.com/color/600/000000/bandicam.png" alt="Bandicam" width="40" height="40"/>
-  </a>
-  <a href="" target="_blank">
-    <img src="" alt="" width="40" height="40"/>
-  </a><a href="" target="_blank">
-    <img src="" alt="" width="40" height="40"/>
-  </a><a href="" target="_blank">
-    <img src="" alt="" width="40" height="40"/>
   </a>
 </p>
 
