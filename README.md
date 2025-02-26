@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋,I`m Galify</h1>
 <h3 align="center">QA Engineer | Manual & Automation testing</h3>
+---
 
-
-<h2 align="center">TEST MACHINE</h2>
+## <h2 align="center">TEST MACHINE</h2>
 <p>
   <ul>
     <li> <img alt="Static Badge" src="https://img.shields.io/badge/Resolution-5d5d5d"> <img alt="Static Badge" src="https://img.shields.io/badge/5900%20x%201080%20px-blue">
