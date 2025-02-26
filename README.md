@@ -17,7 +17,7 @@
 <p align="left">
   
   <a href="https://www.java.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
+    <img src="[https://www.vectorlogo.zone/logos/java/java-icon.svg](https://www.vectorlogo.zone/logos/java/java-ar21~bgwhite.svg)" alt="Java" height="40"/>
   </a>
   
    <a href="" target="_blank">
