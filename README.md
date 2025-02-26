@@ -86,5 +86,11 @@
   <a href="https://t.me/dharmainc">
     <img src="https://img.shields.io/badge/Telegram-@Dharmainc-blue?logo=telegram" alt="Telegram"/>
   </a>
+
+<a href="https://www.linkedin.com/in/mykyta-kushnarov-5594a82a9/">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Linked-In-blue?logo=inspire">
+  </a>
+
+  
 </p>
 
