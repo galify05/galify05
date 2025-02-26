@@ -32,7 +32,7 @@
   </a>
   
    <a href="" target="_blank">
-    <img src="https://repository-images.githubusercontent.com/591595362/ac00932f-f966-409a-b1de-b748d802077a" alt="github" width="40" height="40"/>
+    <img src="https://cdn1.iconfinder.com/data/icons/apps-8/64/github-apps-platform-512.png" alt="github" width="40" height="40"/>
   </a>
   
    <a href="" target="_blank">
