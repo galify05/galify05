@@ -32,7 +32,7 @@
   </a>
   
    <a href="" target="_blank">
-    <img src="https://vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg" alt="github" width="40" height="40"/>
+    <img src="https://upload.vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg" alt="github" width="40" height="40"/>
   </a>
   
    <a href="" target="_blank">
