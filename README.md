@@ -77,10 +77,10 @@
     <img src="https://img.shields.io/badge/GitHub-galify05-blue?logo=github" alt="GitHub"/>
   </a>
   <a href="mailto:galify05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-your.email@example.com-red?logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-galify05@gmail.com-red?logo=gmail" alt="Email"/>
   </a>
   <a href="https://t.me/dharmainc">
-    <img src="https://img.shields.io/badge/Telegram-@your_telegram-blue?logo=telegram" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-@Dharmainc-blue?logo=telegram" alt="Telegram"/>
   </a>
 </p>
 
