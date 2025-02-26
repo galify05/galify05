@@ -13,6 +13,7 @@
               <li><img alt="Static Badge" src="https://img.shields.io/badge/RAM-5d5d5d"> <img alt="Static Badge" src="https://img.shields.io/badge/16%203200mhz%20-424242"></li>
   </ul>
 
+---
 
 ## 🛠 Technologies and tools:
 <p align="left">
